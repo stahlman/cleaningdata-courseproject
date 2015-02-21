@@ -10,12 +10,12 @@ Identifiers:
 
 -  Subject: subject identification number (1-30)
 -  Activity: 
-..- LAYING 
-..- SITTING 
-..- STANDING 
-..- WALKING 
-..- WALKING_DOWNSTAIRS 
-..- WALKING_UPSTAIRS
+	- LAYING 
+	- SITTING 
+	- STANDING 
+	- WALKING 
+	- WALKING_DOWNSTAIRS 
+	- WALKING_UPSTAIRS
 
 Averaged quantities (name is taken from original data set):
 
