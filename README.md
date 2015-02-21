@@ -25,7 +25,7 @@ The task at hand is summarized by the following steps:
 After sourcing 'run_analysis.R', an output file named 'means.txt' containing the 
 tidy data set is created.  To quickly examine the output in R, run:
 
-  View(read.table('means.txt',header=TRUE))
+>View(read.table('means.txt',header=TRUE))
 
 This package includes the following files:
 ---------------------------------------------
