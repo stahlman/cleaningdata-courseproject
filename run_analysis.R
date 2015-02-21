@@ -31,7 +31,6 @@ if (!file.exists('./data/UCI\ HAR\ Dataset')){
 #get X and Y feature names
 print("Loading feature names")
 X_features <- read.csv("data/UCI\ HAR\ Dataset/features.txt", sep='', header=FALSE)
-n_features <- dim(X_features)[1]
 X_feature_names <- sub("()","",X_features$V2, fixed=TRUE)
 
 Y_features <- read.csv("data/UCI\ HAR\ Dataset/activity_labels.txt", 
