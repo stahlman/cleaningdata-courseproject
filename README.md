@@ -1,9 +1,7 @@
-=============================================
 JHU Getting and Cleaning Data Course Project
-Feb 22 2015
 =============================================
 Jonathan Stahlman
-=============================================
+---------------------------------------------
 
 The purpose of this project is to collect, work with, and clean an example 
 data set with the ultimate goal of preparing a tidy data set that can be used 
@@ -30,7 +28,7 @@ tidy data set is created.  To quickly examine the output in R, run:
   View(read.table('means.txt',header=TRUE))
 
 This package includes the following files:
-=========================================
+---------------------------------------------
 
 - 'README.txt'
 
